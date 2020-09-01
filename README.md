@@ -1,2 +1,0 @@
-# nagwebapp
-azure test
